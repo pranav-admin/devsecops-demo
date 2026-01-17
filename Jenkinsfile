@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   environment {
-    IMAGE = "pranav-admin/devsecops-demo"
+    IMAGE = "pranavadmin/devsecops-demo"
   }
 
   stages {
