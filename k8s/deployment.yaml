@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: pranav-admin/devsecops-demo:latest
+        image: pranavadmin/devsecops-demo:latest
         ports:
         - containerPort: 80
